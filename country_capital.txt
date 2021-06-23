@@ -1,0 +1,194 @@
+アフガニスタン 	カブール 	Afghanistan	Kabul	35530081
+バチカン 	バチカン 	Vatican	Vatican	792
+ツバル 	フナフティ 	Tuvalu	Funafuti	11192
+ナウル 	ヤレン 	Nauru	Yaren	11359
+パラオ 	マルキョク 	Palau	Markyuk	21729
+サンマリノ 	サンマリノ 	San Marino	San Marino	33400
+リヒテンシュタイン 	ファドゥーツ 	Liechtenstein	Vaduz	37922
+モナコ 	モナコ 	Monaco	Monaco	38695
+マーシャル諸島 	マジュロ 	Marshall Islands	Majuro	53127
+セントクリストファー・ネーヴィス 	バセテール 	Saint Kitts and Nevis	Basseterre	55345
+ドミニカ国 	ロゾー 	Dominica country	Roseau	73925
+アンドラ 	アンドララベリャ 	Andorra	Andorra La Vella	76965
+セーシェル 	ビクトリア 	Seychelles	Victoria	94737
+アンティグア・バーブーダ 	セントジョンズ 	Antigua and Barbuda	St. John's	102012
+グレナダ 	セントジョージズ 	Grenada	St. George's	107825
+トンガ 	ヌクアロファ 	Tonga	Nuku'alofa	108020
+セントビンセント・グレナディーン 	キングスタウン 	Saint Vincent and the Grenadines	Kingstown	109897
+キリバス 	タラワ 	Kiribati	Tarawa	116398
+セントルシア 	カストリーズ 	Saint Lucia	Castries	178844
+サモア 	アピア 	Samoa	Apia	196440
+サントメ・プリンシペ 	サントメ 	Sao Tome and Principe	Sao tome	204327
+バヌアツ 	ポートビラ 	Vanuatu	Port Vila	276244
+バルバドス 	ブリッジタウン 	Barbados	Bridgetown	285719
+アイスランド 	レイキャビク 	Iceland 	Reykjavík	335025
+ベリーズ 	ベルモパン 	Belize	Belmopan	374681
+バハマ 	ナッソー 	The Bahamas	Nassau	395361
+ブルネイ 	バンダルスリブガワン 	Brunei	Bandar Seri Begawan	428697
+マルタ 	バレッタ 	Malta	Valletta	430835
+モルディブ 	マレ 	Maldives	Male	436330
+スリナム 	パラマリボ 	Suriname	Paramaribo	563402
+ルクセンブルク 	ルクセンブルク 	Luxembourg	Luxembourg	583455
+ソロモン諸島 	ホニアラ 	Solomon Islands	Honiara	611343
+モンテネグロ 	ポドゴリツァ 	Montenegro	Podgorica	628960
+ガイアナ 	ジョージタウン 	Guyana	Georgetown	777859
+ブータン 	ティンプー 	Bhutan	Thimphu	807610
+コモロ 	モロニ 	Comoros	Moroni	813912
+フィジー 	スバ 	Fiji	Suva	905502
+ジブチ 	ジブチ 	Djibouti	Djibouti	956985
+キプロス 	ニコシア 	Cyprus	Nicosia	1179551
+モーリシャス 	ポートルイス 	Mauritius	Port Louis	1265138
+赤道ギニア 	マラボ 	Equatorial Guinea	Malabo	1267689
+東ティモール 	ディリ 	East Timor 	Dili	1296311
+エストニア 	タリン 	Estonia	Tallinn	1309632
+スワジランド 	ムババーネ 	Swaziland	Mbabane	1367254
+トリニダード・トバゴ 	ポートオブスペイン 	Republic of Trinidad and Tobago 	Port of Spain	1369125
+バーレーン 	マナーマ 	Bahrain	Manama	1492584
+ギニアビサウ 	ビサウ 	Guinea-Bissau	Bissau	1861283
+ラトビア 	リガ 	Latvia	Riga	1949670
+ガボン 	リーブルビル 	Gabon	Libreville	2025137
+スロベニア 	リュブリャナ 	Slovenia	Ljubljana	2079976
+マケドニア 	スコピエ 	Macedonia	Skopje	2083160
+ガンビア 	バンジュール 	Gambia	Banjul	2100568
+レソト 	マセル 	Lesotho	Maseru	2233339
+ボツワナ 	ハボローネ 	Botswana	Gaborone	2291661
+ナミビア 	ウィントフック 	Namibia	Windhoek	2533794
+カタール 	ドーハ 	Qatar	Doha	2639211
+リトアニア 	ビリニュス 	Lithuania	Vilnius	2890297
+ジャマイカ 	キングストン 	Jamaica	Kingston	2890299
+アルバニア 	ティラナ 	Albania	Tirana	2930187
+アルメニア 	エレバン 	Armenia	Yerevan	2930450
+モンゴル 	ウランバートル 	Mongolia	Ulaanbaatar	3075647
+ウルグアイ 	モンテビデオ 	Uruguay	Montevideo	3456750
+ボスニア・ヘルツェゴビナ 	サラエボ 	Bosnia-Herzegovina 	Sarajevo	3507017
+ジョージア 	トビリシ 	Georgia	Tbilisi	3912061
+モルドバ 	キシニョフ 	Moldova	Chisynov	4051212
+パナマ 	パナマシティ 	Panama	Panama City	4098587
+クウェート 	クウェート 	Kuwait	Kuwait	4136528
+クロアチア 	ザグレブ 	Croatia	Zagreb	4189353
+モーリタニア 	ヌアクショット 	Mauritania	Nouakchott	4420184
+オマーン 	マスカット 	Oman	Muscat	4636262
+中央アフリカ 	バンギ 	Central Africa	Bangui	4659080
+ニュージーランド 	ウェリントン 	new Zealand 	Wellington	4705818
+リベリア 	モンロビア 	Liberia	Monrovia	4731906
+アイルランド 	ダブリン 	Ireland	Dublin	4761657
+コスタリカ 	サンホセ 	Costa Rica	San José	4905769
+エリトリア 	アスマラ 	Eritrea	Asmara	5068831
+コンゴ共和国 	ブラザビル 	Republic of Congo	Brazzaville	5260750
+ノルウェー 	オスロ 	Norway	Oslo	5305383
+スロバキア 	ブラチスラバ 	Slovakia	Bratislava	5447662
+フィンランド 	ヘルシンキ 	Finland	Helsinki	5523231
+シンガポール 	シンガポール 	Singapore	Singapore	5708844
+デンマーク 	コペンハーゲン 	Denmark	Copenhagen	5733551
+トルクメニスタン 	アシガバット 	Turkmenistan	Ashigabat	5758075
+キルギス 	ビシュケク 	Kyrgyzstan	Bishkek	6045117
+レバノン 	ベイルート 	Lebanon	Beirut	6082357
+ニカラグア 	マナグア 	Nicaragua	Managua	6217581
+リビア 	トリポリ 	Libya	Tripoli	6374616
+エルサルバドル 	サンサルバドル 	El Salvador	San Salvador	6377853
+パラグアイ 	アスンシオン 	Paraguay	Asuncion	6811297
+ラオス 	ビエンチャン 	Laos	Vientiane	6858160
+ブルガリア 	ソフィア 	Bulgaria	Sofia 	7084571
+シエラレオネ 	フリータウン 	Sierra Leone	Freetown	7557212
+トーゴ 	ロメ 	Togo	Rome	7797694
+パプアニューギニア 	ポートモレスビー 	Papua New Guinea	Port Moresby	8251162
+イスラエル 	エルサレム 	Israel	Jerusalem	8321570
+スイス 	ベルン 	Swiss	Bern	8476005
+オーストリア 	ウィーン 	Austria 	Vienna	8735453
+セルビア 	ベオグラード 	Serbia	Belgrade	8790574
+タジキスタン 	ドゥシャンベ 	Tajikistan	Dushanbe	8921343
+ホンジュラス 	テグシガルパ 	Honduras	Tegucigalpa	9265067
+アラブ首長国連邦 	アブダビ 	United Arab Emirates 	Abu Dhabi	9400145
+ベラルーシ 	ミンスク 	Belarus 	Minsk	9468338
+ヨルダン 	アンマン 	Jordan	Amman	9702353
+ハンガリー 	ブダペスト 	Hungary	Budapest	9721559
+アゼルバイジャン 	バクー 	Azerbaijan	Baku	9827589
+スウェーデン 	ストックホルム 	Sweden	Stockholm	9910701
+ポルトガル 	リスボン 	Portuguese	Lisbon	10329506
+チェコ 	プラハ 	Czech	Prague	10618303
+ドミニカ共和国 	サントドミンゴ 	Dominican Republic 	Santo Domingo	10766998
+ブルンジ 	ブジュンブラ 	Burundi	Bujumbura	10864245
+ハイチ 	ポルトープランス 	Haiti	Port-au-Prince	10981229
+ボリビア 	ラパス 	Bolivia	La Paz	11051600
+ギリシャ 	アテネ 	Greece	Athens	11159773
+ベナン 	ポルトノボ 	Benin	Porto Novo	11175692
+ベルギー 	ブリュッセル 	Belgium	Brussels	11429336
+キューバ 	ハバナ 	Cuba	Havana	11484636
+チュニジア 	チュニス 	Tunisia	Tunis	11532127
+ルワンダ 	キガリ 	Rwanda	Kigali	12208407
+南スーダン 	ジュバ 	South Sudan	Juba	12575714
+ギニア 	コナクリ 	Guinea	Conakry	12717176
+ソマリア 	モガディシュ 	Somalia	Mogadishu	14742523
+チャド 	ンジャメナ 	Chad	Ndjamena	14899994
+セネガル 	ダカール 	Senegal	Dakar	15850567
+カンボジア 	プノンペン 	Cambodia	Phnom Penh	16005373
+ジンバブエ 	ハラレ 	Zimbabwe	Harare	16529904
+エクアドル 	キト 	Ecuador	Quito	16624858
+グアテマラ 	グアテマラシティ 	Guatemala	Guatemala City	16913503
+オランダ 	アムステルダム 	Netherlands	Amsterdam	17035938
+ザンビア 	ルサカ 	Zambia	Lusaka	17094130
+チリ 	サンティアゴ 	Chile	Santiago	18054726
+カザフスタン 	アスタナ 	Kazakhstan	Astana	18204499
+シリア 	ダマスカス 	Syria	Damascus	18269868
+マリ 	バマコ 	Mali	Bamako	18541980
+マラウイ 	リロングウェ 	Malawi	Lilongwe	18622104
+ブルキナファソ 	ワガドゥグー 	Burkina Faso	Ouagadougou	19193382
+ルーマニア 	ブカレスト 	Romania	Bucharest	19679306
+スリランカ 	スリジャヤワルダナプラコッテ 	Sri Lanka 	Sri Jaya Waldana Placotte	20876917
+ニジェール 	ニアメ 	Niger	Niamey	21477348
+台湾	台北	Taiwan	Taipei	23626456
+カメルーン 	ヤウンデ 	Cameroon	Yaounde	24053727
+コートジボワール 	ヤムスクロ 	Cote d'Ivoire	Yamsukro	24294750
+オーストラリア 	キャンベラ 	Australia	Canberra	24450561
+北朝鮮 	ピョンヤン 	North Korea 	Pyongyang	25490965
+マダガスカル 	アンタナナリボ 	Madagascar	Antananarivo	25570895
+イエメン 	サヌア 	Yemen	Sana'a	28250420
+ガーナ 	アクラ 	Ghana	Accra	28833629
+ネパール 	カトマンズ 	Nepal 	Kathmandu	29304998
+モザンビーク 	マプト 	Mozambique	Maputo	29668834
+アンゴラ 	ルアンダ 	Angola	Luanda	29784193
+マレーシア 	クアラルンプール 	Malaysia	Kuala Lumpur 	31624264
+ウズベキスタン 	タシケント 	Uzbekistan	Tashkent	31910641
+ベネズエラ 	カラカス 	Venezuela	Caracas	31977065
+ペルー 	リマ 	Peru	Lima	32165485
+サウジアラビア 	リヤド 	Saudi Arabia 	Riyadh	32938213
+モロッコ 	ラバト 	Morocco	Rabat	35739580
+カナダ 	オタワ 	Canada	Ottawa	36624199
+ポーランド 	ワルシャワ 	Poland 	Warsaw	38170712
+イラク 	バグダッド 	Iraq	Baghdad	38274618
+スーダン 	ハルツーム 	Sudan	Khartoum	40533330
+アルジェリア 	アルジェ 	Algeria	Algiers	41318142
+ウガンダ 	カンパラ 	Uganda	Kampala	42862958
+ウクライナ 	キエフ 	Ukraine	Kiev	44222947
+アルゼンチン 	ブエノスアイレス 	Argentina	Buenos Aires	44271041
+スペイン 	マドリード 	Spain	Madrid	46354321
+コロンビア 	ボゴタ 	Colombia	Bogota	49065615
+ケニア 	ナイロビ 	Kenya	Nairobi	49699862
+韓国 	ソウル 	Korea	Seoul 	50982212
+ミャンマー 	ネーピードー 	Myanmar 	Nepidoo	53370609
+南アフリカ 	プレトリア 	South Africa	Pretoria	56717156
+タンザニア 	ドドマ 	Tanzania	Dodoma	57310019
+イタリア 	ローマ 	Italy	Rome 	59359900
+フランス 	パリ 	France	Paris	64979548
+イギリス 	ロンドン 	England 	London 	66181585
+タイ 	バンコク 	Thailand 	Bangkok	69037513
+トルコ 	アンカラ 	Turkey	Ankara	80745020
+イラン 	テヘラン 	Iran	Tehran	81162788
+コンゴ民主共和国 	キンシャサ 	Democratic Republic of the Congo	Kinshasa	81339988
+ドイツ 	ベルリン 	Germany	Berlin	82114224
+ベトナム 	ハノイ 	Vietnam	Hanoi	95540800
+エジプト 	カイロ 	Egypt 	Cairo 	97553151
+フィリピン 	マニラ 	Philippines	Manila	104918090
+エチオピア 	アディスアベバ 	Ethiopia	Addis Ababa	104957438
+日本 	東京 	Japan	Tokyo	127484450
+メキシコ 	メキシコシティ 	Mexico	Mexico City 	129163276
+ロシア 	モスクワ 	Russia	Moscow 	143989754
+バングラデシュ 	ダッカ 	Bangladesh	Dhaka	164669751
+ナイジェリア 	アブジャ 	Nigeria	Abuja	190886311
+パキスタン 	イスラマバード 	Pakistan	Islamabad	197015955
+ブラジル 	ブラジリア 	Brazil	Brasilia	209288278
+インドネシア 	ジャカルタ 	Indonesia	Jakarta	263991379
+アメリカ 	ワシントンD. C. 	America 	Washington D. C.	324459463
+インド 	ニューデリー 	India	New Delhi 	1339180127
+中国 	北京 	China	Beijing	1409517397
+
