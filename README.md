@@ -1,6 +1,4 @@
-# Batch-search-in-Google-news-in-Japanese
-
-Batch searching/logging in Google news in Japanese
+# Batch searching/logging in Google news in Japanese
 
 This program loads a list of search keywords from a text file, searches for each keyword in Google News in Japanese and registers the number of search results into another text file. 
 
